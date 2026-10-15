@@ -1,12 +1,69 @@
-Deftones  
-========
+# Deftones  
 
-**Deftones** é uma banda americana de metal alternativo formada em *Sacramento, Califórnia,* em 1988.  
-Eles foram formados pelo vocalista **Chino Moreno,** o guitarrista **Stephen Carpenter** e o baterista **Abe Cunningham**, com o baixista **Chi Cheng** e o tecladista e turntablist **Frank Delgado** se juntando à formação em 1990 e 1999, respectivamente.  
-A natureza experimental da banda levou alguns críticos a descrevê-los como **"o Radiohead do metal".**
-Após a formação se estabelecer em 1993, a banda garantiu um contrato de gravação com a Maverick Records e, posteriormente, lançou seu álbum de estreia, Adrenaline, em 1995. Extensas turnês e a promoção boca-a-boca do álbum ajudaram o Deftones a conquistar uma base de fãs dedicada. Seu segundo álbum, Around the Fur (1997), trouxe fama à banda na cena do metal alternativo e alcançou posições nas paradas junto com seus singles.  
-Tornou-se o primeiro disco da banda a receber a certificação da RIAA.
+![Deftones - Banda de metal alternativo](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Deftones_live.jpg/960px-Deftones_live.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-A banda obteve ainda mais sucesso com seu terceiro álbum, White Pony (2000), que marcou uma transição de seu som anterior, mais agressivo, para uma direção mais experimental. Seu primeiro single, "Change (In the House of Flies)", é o single de maior sucesso comercial da banda, e a faixa "Elite" ganhou um Grammy Award para Melhor Performance de Metal; foi também o primeiro dos três álbuns da banda a ser certificado como platina nos Estados Unidos. Seu quarto álbum, autointitulado, foi lançado em 2003. Embora o sucesso de crítica do grupo tenha continuado, as vendas se mostraram fracas em comparação com White Pony. O quinto trabalho de estúdio do Deftones, Saturday Night Wrist (2006), recebeu elogios semelhantes, embora a produção do álbum tenha sido marcada por tensões criativas e questões pessoais dentro da banda, algumas das quais influenciaram seu material.
+## 1. Información general
 
-Em 2008, enquanto Deftones estava trabalhando em um álbum provisoriamente intitulado Eros, Cheng se envolveu em uma colisão de trânsito. Como resultado, ele foi deixado em um estado minimamente consciente até sua morte em 2013 de parada cardíaca. Após o acidente de Cheng, Deftones interrompeu a produção de Eros e recrutou o baixista do Quicksand, Sergio Vega, até sua saída no início de 2021.[a] A banda lançou o elogiado álbum Diamond Eyes em 2010 e embarcou em uma turnê tripla com Alice in Chains e Mastodon pela América do Norte. Seus sétimo e oitavo álbuns, Koi No Yokan (2012) e Gore (2016), respectivamente, mostraram a experimentação contínua da banda, enquanto seu nono álbum, Ohms (2020), marcou um retorno ao som mais pesado da banda. Seu décimo álbum, Private Music, foi lançado em 22 de agosto de 2025
+**Nombre:** Deftones  
+**Lugar de origen:** Estados Unidos  
+**Ciudad:** Sacramento, California  
+**Año de inicio:** 1988  
+**Género musical:** New Metal
+
+## 2. Integrantes
+
+- **Chino Moreno:** vocalista.
+- **Stephen Carpenter:** guitarrista.
+- **Abe Cunningham:** baterista.
+- **Chi Cheng:** bajista hasta su fallecimiento en 2013.
+- **Frank Delgado:** teclista y turntablista.
+
+## 3. Historia de la banda
+
+**Deftones** es una banda estadounidense de metal alternativo formada en *Sacramento, California*, en 1988.
+
+En 1995, publicó su primer álbum, *Adrenaline*. En 1997, lanzó *Around the Fur*, que le dio mayor reconocimiento dentro de la escena del metal alternativo.  
+
+En el año 2000, publicó *White Pony*, un álbum que marcó una evolución hacia un sonido más experimental. La canción *Change (In the House of Flies)* se convirtió en uno de sus mayores éxitos. Además, la canción *Elite* ganó un premio *Grammy* a la mejor interpretación de metal.  
+
+En los años siguientes, la banda publicó otros álbumes importantes, como *Diamond Eyes* (2010), *Koi No Yokan* (2012), *Gore* (2016) y *Ohms* (2020).  
+
+Su décimo álbum de estudio, *Private Music*, se publicó el 22 de agosto de 2025.  
+
+## 4. Álbumes destacados  
+
+| Álbum                | Año  |
+|----------------------|-----:|
+| Adrenaline           | 1995 |
+| Around the Fur       | 1997 |
+| White Pony           | 2000 |
+| Deftones             | 2003 |
+| Saturday Night Wrist | 2006 |
+| Diamond Eyes         | 2010 |
+| Koi No Yokan         | 2012 |
+| Gore                 | 2016 |
+| Ohms                 | 2020 |
+| Private Music        | 2025 |
+
+## 5. Canciones más conocidas  
+
+1. *Change (In the House of Flies)*
+2. *My Own Summer (Shove It)*
+3. *Be Quiet and Drive (Far Away)*
+4. *Digital Bath*
+5. *Sextape*
+6. *Cherry Waves*
+
+## 6. Estilo musical
+
+Deftones combina guitarras potentes, voces melódicas y sonidos experimentales. Su música mezcla elementos del metal alternativo y del rock alternativo.
+
+Algunos críticos han descrito a la banda como **«el Radiohead del metal»** por su estilo experimental.
+
+## 7. Conclusión
+
+Deftones es una banda importante dentro del metal alternativo. A lo largo de su carrera, ha evolucionado musicalmente y ha creado canciones que han conquistado a muchos aficionados al rock y al metal.
+
+---
+
+> La música de Deftones combina fuerza, emoción y experimentación.
