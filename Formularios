@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Reserva - Lunatrip</title>
+</head>
+<body>
+    <h2>Formulario de Reserva para la Luna - Lunatrip</h2>
+    <form action="" method="post">
+        <fieldset>
+        <legend>1. Datos del Viajero/a</legend><br>
+
+            <label for="name">Nombre Completo:</label>
+            <input type="text" id="name"><br>
+            <label for="correoelectronico">Correo electrónico:</label>
+            <input type="email" id="correoelectronico"> <br>
+            <label for="tel">Teléfono:</label>
+            <input type="tel" id="tel" pattern="[0-9]{9}"><br> 
+            <label for="fechanacimiento">Fecha de Nacimiento:</label>
+            <input type="date" id="fechanacimiento" max="2008-10-13"><br> 
+            <label for="contrasena">Elige una Contraseña:</label>
+            <input type="password" id="contrasena"><br>  
+    </form>
+        </fieldset>
+        <fieldset>
+        <form action="" method="post"><br>
+        <legend>2. Datos del viaje</legend><br>
+            <label for="despegue">Fecha de despegue:</label>
+            <input type="date" id="despegue" min="2026-10-14"><br>
+            <label for="pasajeros">Número de pasajeros/as:</label>
+            <input type="number" id="pasajeros" min="1" max="4"><br> 
+            <label for="clasecabina">Clase de cabina:</label>
+            <select name="clasecabina" id="clasecabina">
+                <option value="">Elige una Opcion</option>
+                <option value="clasico">Economica</option>
+                <option value="ligero">Business</option>
+                <option value="premium">Suite con vistas</option><br> 
+        </form>        
+        <fieldset>
+        <form action="" method="post"><br>
+                <input type="radio" id="traje-clasico" name="tipo_traje" value="clasico" required>
+                <label for="traje-clasico">Clásico</label>
+                <input type="radio" id="traje-ligero" name="tipo_traje" value="ligero">
+                <label for="traje-ligero">Ligero</label>
+                <input type="radio" id="traje-premium" name="tipo_traje" value="premium">
+                <label for="traje-premium">Premium</label><br>
+                <label for="destino">Destino del paseo lunar:</label>
+                <input type="text" id="destino" name="destino_paseo" list="destinos-sugeridos" placeholder="Escribe o selecciona un destino">
+                <datalist id="destinos-sugeridos">
+                    <option value="Mar de la tranquilidad">
+                    <option value="Cráter lunar central">
+                </datalist><br>
+                </fieldset>
+        </form>        
+        <legend>3. Extras y preferencias</legend><br>   
+
+
+    </form>
+
+    
+</body>
+</html>

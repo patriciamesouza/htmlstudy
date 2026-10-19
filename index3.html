@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <form action="procesar" method="post">
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" name="nombre" required minlength="3" maxlength="15" placeholder="Tu nombre" readonly>
+        <input type="text" name="cp" pattern="[0-9]{5}" title="5 digitos">
+        <label for="date">Data</label>
+        <input type="date">
+        <label for="password">Senha</label>
+        <input type="password">
+        <label for="tel">Telefono</label>
+        <input type="tel">
+        <label for="file">Ponga aqui la imagen</label>
+        <input type="file">
+        <input type="range" id="evaluacion" min="0" max="10">
+        <label for="edad">Edad</label>
+        <input type="number" id="edad" min="16" max="99">
+
+        <label for="mensaje">Mensaje</label>
+        <textarea name="mensaje" id="mensaje" rows="4" cols="40" maxlength="40"></textarea>
+        <label for="curso">Curso</label>    
+        <select name="curso" id="curso">
+            <option value="">-- Elige una Opcion</option>
+            <option value="1daw">1 daw</option>
+            <option value="2daw">2 daw</option>
+            <option value="3daw">3 daw</option>
+        </select>
+
+        <fieldset>
+            <legend> Turno preferido</legend>
+            <input type="radio" id="mañana" name="turno" value="mañana">
+            <label for="mañana">mañana</label>
+            <input type="radio" id="tarde" name="turno" value="tarde">
+            <label for="tarde">tarde</label>
+        </fieldset>
+
+        <input type="checkbox" id="html" name="lenguajes" value="html">
+        <label for="html">HTML</label>
+        <input type="checkbox" id="css" name="lenguajes" value="css">
+        <label for="css">CSS</label>
+        <button type="submit">Enviar</button>
+        <button type="reset">Limpiar</button>
+
+
+
+    </form>
+</body>
+</html>
